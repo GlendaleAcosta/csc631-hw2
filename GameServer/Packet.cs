@@ -10,7 +10,7 @@ namespace GameServer
     {
         welcome = 1,
         spawnPlayer,
-        playerPostion,
+        playerPosition,
         playerRotation
     }
 
